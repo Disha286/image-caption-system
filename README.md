@@ -9,6 +9,8 @@ Supports multiple image formats
 Fast and efficient caption generation
 User-friendly interface
 Easy integration with other applications
+
+
 🛠️ Tech Stack
 Frontend
 React.js / HTML / CSS / Tailwind CSS
@@ -21,6 +23,8 @@ CNN (Convolutional Neural Network)
 LSTM / Transformer-based caption generator
 Dataset
 Flickr8k / Flickr30k / MS COCO
+
+
 📂 Project Structure
 image-caption-system/
 │
@@ -40,6 +44,8 @@ image-caption-system/
 ├── saved_models/
 ├── README.md
 └── .gitignore
+
+
 ⚙️ Installation
 1. Clone the Repository
 git clone https://github.com/your-username/image-caption-system.git
@@ -53,39 +59,47 @@ Linux / Mac
 source venv/bin/activate
 4. Install Dependencies
 pip install -r requirements.txt
+
+
 ▶️ Run the Project
 Start Backend
 python app.py
 Start Frontend
 npm install
 npm run dev
+
+
 🧠 How It Works
 User uploads an image.
 The CNN model extracts image features.
 The caption generation model predicts relevant text.
 The generated caption is displayed to the user.
+
+
 📸 Sample Output
 Image	Generated Caption
 Sample Image	"A dog running through a grassy field."
+
+
 📊 Model Performance
 BLEU Score: XX%
 Accuracy: XX%
 Training Dataset Size: XXXX images
+
+
 🚀 Future Improvements
 Multi-language caption generation
 Voice output support
 Real-time webcam captioning
 Improved Transformer-based models
 Deployment on cloud platforms
-🤝 Contributing
 
 Contributions are welcome.
-
 Fork the repository
 Create a new branch
 Commit your changes
 Push to the branch
 Open a Pull Request
-📄 License
 
+📄 License
 This project is licensed under the MIT License.
