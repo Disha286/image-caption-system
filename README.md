@@ -48,7 +48,7 @@ image-caption-system/
 
 ⚙️ Installation
 1. Clone the Repository
-git clone https://github.com/your-username/image-caption-system.git
+git clone https://github.com/Disha286/image-caption-system.git
 cd image-caption-system
 2. Create Virtual Environment
 python -m venv venv
